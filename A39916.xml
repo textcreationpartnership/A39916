@@ -1,0 +1,1119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons resurrection, poetically represented and humbly presented to His Most Sacred Majesty.</title>
+            <title>Londini renascentis imago poetica. English</title>
+            <author>Ford, Simon, 1619?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39916</idno>
+            <idno type="STC">Wing F1490</idno>
+            <idno type="STC">ESTC R1218</idno>
+            <idno type="EEBO-CITATION">12409756</idno>
+            <idno type="OCLC">ocm 12409756</idno>
+            <idno type="VID">61494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 938:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons resurrection, poetically represented and humbly presented to His Most Sacred Majesty.</title>
+                  <title>Londini renascentis imago poetica. English</title>
+                  <author>Ford, Simon, 1619?-1699.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for S.A. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Writen by Simon Ford.  Cf. Wing and NUC pre-1956.</note>
+                  <note>Translation of: Londini renascentis imago poetica.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61494:1"/>
+            <pb facs="tcp:61494:1" rendition="simple:additions"/>
+            <p>LONDONS Reſurrection, Poetically repreſented, AND HUMBLY PRESENTED To His Moſt Sacred MAJESTY.</p>
+            <figure>
+               <figDesc>woodcut of shield bearing two crossed swords</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>S A: GELLI<g ref="char:EOLhyphen"/>BRAND,</hi> in St. <hi>Paul's</hi> Church-yard, 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:61494:2"/>
+            <pb n="3" facs="tcp:61494:2"/>
+            <head>
+               <hi>LONDON's</hi> Reſurrection, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>MY <hi>Salamander-Muſe,</hi> which newly ſprung</l>
+               <l>From <hi>London's</hi> Fires, her <hi>Mother-Furies</hi> ſung;</l>
+               <l>Wreath'd with a <hi>lambent Flame;</hi> then view'd the waſte,</l>
+               <l>And in her Arms the dear <hi>Remains</hi> embrac'd,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> A new Birth's pledg; and (laſtly) ſcourg'd the <hi>Crimes</hi>
+               </l>
+               <l>Which mark'd with <hi>London's Brands</hi> our diſmal Times:</l>
+               <l>Turn'd <hi>Phoenix</hi> now, claps her new-imped Wings,</l>
+               <l>And the New City's <hi>Reſurrection</hi> ſings.</l>
+            </lg>
+            <lg>
+               <l>Would <hi>Orpheus</hi> lend me his renowned <hi>Lyre,</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Or brisk <hi>Amphion's Lute</hi> my Song inſpire!</l>
+               <l>Their Airs (perhaps) might turn my <hi>Verſe to Charm,</hi>
+               </l>
+               <l>And raiſe faln <hi>London</hi> without <hi>Tool</hi> or <hi>Arm.</hi>
+               </l>
+               <l>My mighty Rhimes ſhould quickly (then) remove</l>
+               <l>Th' <hi>Hercynian Foreſt,</hi> and <hi>Dodona's Grove.</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> From Climes remote, the cap'ring Trees ſhould meet</l>
+               <l>Within its Gates; and in each ruin'd Street</l>
+               <l>(<hi>Squar'd</hi> by a <hi>Wiſh</hi>) to ev'ry place aſſign'd</l>
+               <l>Diſpoſe themſelves after the Builder's mind.</l>
+               <l>This <hi>Quill</hi> ſhould dig down <hi>Mountains,</hi> and my Muſe</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/> The liſt'ning <hi>Marbles</hi> from their Beds ſeduce.</l>
+               <l>Th' whole <hi>Parian Quarrey</hi> ſhould obey her calls,</l>
+               <l>And march a Voluntier to <hi>London's Walls.</hi>
+               </l>
+               <pb n="4" facs="tcp:61494:3"/>
+               <l>Yea, the glad <hi>Maſon</hi> ſhould ſit by, and play,</l>
+               <l>Whiles maſſy Rocks both <hi>ſquare</hi> themſelves, and <hi>lay</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/> But ſhe (poor Girl) ſuch high attempts diſclaims,</l>
+               <l>Content her <hi>Power</hi> give meaſure to her <hi>Aims.</hi>
+               </l>
+               <l>Accept her kindneſs (though) in what ſhe's skill'd:</l>
+               <l>To <hi>bleſs,</hi> and <hi>preſs,</hi> is virtually to build.</l>
+               <l>Words link'd in Numbers, (though they be but <hi>wind</hi>)</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/> Have help'd to do, what <hi>Force</hi> in vain deſign'd.</l>
+               <l>Who blows the Trumpet, though he ne're engage,</l>
+               <l>
+                  <hi>Governs</hi> the <hi>Fight,</hi> and <hi>whets</hi> the <hi>Fighter's Rage.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Permit (<hi>Great Prince</hi>) my <hi>Swan-like Muſe</hi> to ſing</l>
+               <l>Her <hi>Farwel-Notes</hi> under your ſacred Wing.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="35"/> 
+                  <hi>Poets, as Cities,</hi> hardly e're riſe <hi>high,</hi>
+               </l>
+               <l>But under th' <hi>Influence</hi> of <hi>Majeſty.</hi>
+               </l>
+               <l>
+                  <hi>London,</hi> and <hi>I,</hi> equal <hi>Ambitions</hi> have</l>
+               <l>By Your <hi>ſole Aſpect</hi> to ſurvive the <hi>Grave.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor let diſpleaſure ſeize <hi>Your</hi> Sacred Breaſt,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="40"/> 'Cauſe my Firſt Muſe to <hi>meaner Names</hi> addreſt.</l>
+               <l>
+                  <hi>Safe flights,</hi> as then, doubting her <hi>Wing,</hi> ſhe flew;</l>
+               <l>But meant thoſe lower Perches <hi>Stairs</hi> to <hi>You.</hi>
+               </l>
+               <l>So the <hi>young Bird,</hi> before ſhe truſt the Skye,</l>
+               <l>From Twig to Twig, doth rather hop than flye.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="45"/> Then, takes a <hi>Neighbour-Tree,</hi> till paſt her flights,</l>
+               <l>She feels her ſtrength, and dares the <hi>greateſt heights.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And, (though <hi>Your Name</hi> beſpangle all my Verſe,</l>
+               <l>Yet) whiles <hi>Attendant</hi> on ſo ſad an <hi>Herſe;</hi>
+               </l>
+               <l>Too much like an <hi>illomen</hi> 't would have ſhown,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="50"/> In <hi>mourning Blacks</hi> to have approach'd the <hi>Throne.</hi>
+               </l>
+               <pb n="5" facs="tcp:61494:3"/>
+               <l>But now, ſith <hi>London</hi> ſpringing from her <hi>Tomb,</hi>
+               </l>
+               <l>(Your <hi>Royal Work</hi>) my <hi>Royal Theme's</hi> become:</l>
+               <l>
+                  <hi>Both</hi> by an equal Title are Your due,</l>
+               <l>As both <hi>Her Founder,</hi> and her <hi>Poems</hi> too.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="55"/> 
+                  <hi>You,</hi> when the <hi>City</hi> by deſponding <hi>flight</hi>
+               </l>
+               <l>Yeelded the <hi>Flames</hi> an undiſputed Right;</l>
+               <l>Sounded th' <hi>Alarm,</hi> and by a freſh <hi>Array</hi>
+               </l>
+               <l>Renew'd the <hi>ONSET,</hi> and reſtor'd the <hi>Day.</hi>
+               </l>
+               <l>Your prudent <hi>Acts,</hi> confounded <hi>Rights</hi> decide,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="60"/> And fix the <hi>Bounds</hi> to potent Neighbour's <hi>Pride.</hi>
+               </l>
+               <l>Your Three-fold <hi>League</hi> all Foreign <hi>Warrs</hi> accords,</l>
+               <l>And We to <hi>Spades</hi> and <hi>Tru'ls</hi> reform our <hi>Swords.</hi>
+               </l>
+               <l>
+                  <hi>Janus's</hi> Temple now is <hi>triple-barr'd;</hi>
+               </l>
+               <l>Our <hi>Drums</hi> are ſilent whiles our <hi>Laws</hi> are heard.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="65"/> 
+                  <hi>Devotion</hi> Heav'ns, <hi>Trade</hi> Earth's Riches brings:</l>
+               <l>The <hi>Plow-man whiſtles,</hi> and my <hi>Clio</hi> ſings.</l>
+            </lg>
+            <lg>
+               <l>On, (<hi>Royal Sir</hi>) tile <hi>Your</hi> own <hi>Bounties</hi> o're,</l>
+               <l>And check our <hi>baſhful Hopes</hi> by doing <hi>More.</hi>
+               </l>
+               <l>Our <hi>Ruins</hi> yet afford Your <hi>Glories</hi> ground</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="70"/> To <hi>ſpread</hi> themſelves, and make Your <hi>Reign renown'd.</hi>
+               </l>
+               <l>Let <hi>next Age</hi> add, when they Your <hi>Titles</hi> ſing,</l>
+               <l>
+                  <hi>London's Reſtorer,</hi> to <hi>Great Britain's King.</hi>
+               </l>
+               <l>Till the <hi>old Founder</hi> more <hi>obſcure</hi> is grown,</l>
+               <l>Not as <hi>out-dated</hi> now, but as <hi>out-done.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="75"/> And Thou, <hi>Almighty Architect,</hi> whoſe Call</l>
+               <l>From <hi>Nothing's Womb</hi> produc'd this glorious <hi>All;</hi>
+               </l>
+               <l>Which friendly <hi>Atoms</hi> in firm Nuptials ty'd,</l>
+               <l>Divorcing thoſe which native Jars divide;</l>
+               <pb n="6" facs="tcp:61494:4"/>
+               <l>Which, from rude <hi>Juſtles</hi> in th' <hi>unbounded ſpace,</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="80"/> Marſhall'd each Being in its <hi>proper place:</hi>
+               </l>
+               <l>Thou, whoſe Command we <hi>Chriſtians</hi> firmly truſt,</l>
+               <l>Shall <hi>re-compoſe</hi> us out of <hi>crumbled Duſt;</hi>
+               </l>
+               <l>When <hi>Limbs,</hi> which vaſteſt Diſtances detain,</l>
+               <l>Shall travel till they <hi>meet</hi> and <hi>hugg</hi> again;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="85"/> And mindful <hi>Souls</hi> ſhall once more <hi>know,</hi> and <hi>wed</hi>
+               </l>
+               <l>Anew, thoſe very <hi>Bodies</hi> whence they <hi>fled:</hi>
+               </l>
+               <l>Thy Suppliants hear. The Work we call thee to,</l>
+               <l>Not miſ-becomes <hi>Omnipotence</hi> to do.</l>
+               <l>Lo, here, a <hi>City</hi> to a <hi>Chaos</hi> turn'd,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="90"/> Her Aſhes ſcatter'd, and her Bones in urn'd!</l>
+               <l>Bring a like Power to a like Deſign;</l>
+               <l>And <hi>Reſurrection</hi> with <hi>Creation</hi> twine.</l>
+               <l>Thus, while's on <hi>London's</hi> Stage thou ſhalt preſent</l>
+               <l>Our <hi>Faith</hi> an <hi>Inſtance, Hope a Preſident:</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="95"/> Ev'n <hi>Atheiſm</hi> ſhall be diſprov'd by <hi>Senſe,</hi>
+               </l>
+               <l>And bluſh to crave a farther Evidence.</l>
+               <l>Our <hi>Creed's</hi> hard knots, <hi>Example</hi> ſhall diſſolve,</l>
+               <l>And what <hi>may be,</hi> by what <hi>hath been,</hi> reſolve.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Joy to my Muſe!</hi> Heav'n our Requeſts doth hear,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="100"/> Our Prayers knock not at a bolted Ear.</l>
+               <l>Oft <hi>hungry Hopes</hi> with <hi>ſlow Reliefs</hi> are pin'd;</l>
+               <l>But we're twice anſwer'd both in <hi>ſpeed</hi> and <hi>kind.</hi>
+               </l>
+               <l>Hark! Th' <hi>Oracle</hi> its ſacred Veil diſplays,</l>
+               <l>And [<hi>London Riſe</hi>] the potent Whiſper ſays.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="105"/> 
+                  <hi>Hail, Glorious Day;</hi> Maiſt thou be writ in Gold,</l>
+               <l>Which ſaw'ſt the <hi>Scepter'd Hand</hi> the <hi>Truel</hi> hold,</l>
+               <pb n="7" facs="tcp:61494:4"/>
+               <l>To lay that <hi>Stone,</hi> whence the <hi>Exchange</hi> became</l>
+               <l>Anew entitled to its <hi>Royal Name!</hi>
+               </l>
+               <l>Henceforth, <hi>proud Pillar,</hi> to thy Readers view</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="110"/> Tell thine <hi>own ſtory,</hi> and thy <hi>Founders</hi> too.</l>
+            </lg>
+            <lg>
+               <l>Fruitful Example! From the <hi>Royal hand</hi>
+               </l>
+               <l>Each Artiſt now takes <hi>Pattern</hi> and <hi>Command.</hi>
+               </l>
+               <l>Hark, how the clatt'ring <hi>Tools</hi> confuſed ſound</l>
+               <l>Divides the Ear! The <hi>Pick-axe</hi> rends the ground</l>
+               <l>To load the <hi>Spade.</hi> Its Loads beſtow'd between</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="115"/> The ſifting <hi>Ridder,</hi> and the ſearching <hi>Skreen.</hi>
+               </l>
+               <l>The <hi>Saw</hi> the <hi>File,</hi> the <hi>Ax</hi> the <hi>Grindſtone</hi> whets;</l>
+               <l>The knotty Tree this <hi>hews,</hi> the other <hi>eats.</hi>
+               </l>
+               <l>The <hi>Arm</hi> the <hi>Plane,</hi> the <hi>Maul</hi> the <hi>Chiſſel</hi> drives.</l>
+               <l>Through heart of Oak the groaning <hi>Auger</hi> dives.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="120"/> The glowing <hi>Steel</hi> the weighty <hi>Sledges</hi> ſtroke</l>
+               <l>Beats into Form; which quench't doth <hi>hiſs</hi> and <hi>ſmoak.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Room (next) for <hi>Miracles,</hi> profan'd by uſe;</l>
+               <l>The Iſſues of the fam'd <hi>Vitruvian</hi> Muſe.</l>
+               <l>And that <hi>grave Architect's</hi> whoſe ominous Hand</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="125"/> Drew <hi>learned Eines</hi> on <hi>Syracuſan</hi> Sand.</l>
+               <l>Whoſe dying Gore did the <hi>choice Figures</hi> drown,</l>
+               <l>And's dying weight in <hi>their</hi> Room ſtamp'd his <hi>own!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here <hi>twisted Skrews,</hi> whiles planted on the ground,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="130"/> They <hi>worm</hi> themſelves through a like <hi>wreathed Round,</hi>
+               </l>
+               <l>Prop tott'ring Roofs. <hi>Verſatile Rundles</hi> there,</l>
+               <l>By equal Helps their <hi>fellows Burdens</hi> bear,</l>
+               <l>Transferr'd by <hi>claſping Ropes;</hi> whence <hi>greateſt weights</hi>
+               </l>
+               <l>By a <hi>ſmall force</hi> are wound to <hi>greateſt heights.</hi>
+               </l>
+               <pb n="8" facs="tcp:61494:5"/>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="135"/> The <hi>Balance-Engine</hi> next, whoſe loaded End</l>
+               <l>The <hi>tenth</hi> part of its Burden makes t' aſcend.</l>
+               <l>Nor is't leſs wondrous, that the vaſteſt <hi>Beams,</hi>
+               </l>
+               <l>On <hi>Cylinders</hi> ſupporting both Extreams,</l>
+               <l>Tough <hi>Levers</hi> roll; whiles every lifting Hand</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="140"/> 
+                  <hi>One Interjection</hi> jointly doth command.</l>
+            </lg>
+            <lg>
+               <l>Thus goes the <hi>Building</hi> on. Confuſed grounds</l>
+               <l>Juſt <hi>Verdicts</hi> part; and (whiles they fix the bounds</l>
+               <l>To publique Streets by the <hi>Imperious Line</hi>)</l>
+               <l>
+                  <hi>Surveyors</hi> like unbounded <hi>Sov'raigns</hi> reign,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="145"/> 
+                  <hi>Each Houſe</hi> claſps with its neighbour; and the <hi>Square</hi>
+               </l>
+               <l>
+                  <hi>Each Front</hi> unto its fellow-wall doth <hi>pair.</hi>
+               </l>
+               <l>And <hi>Siſter-Piles,</hi> whiles thus they intermarry,</l>
+               <l>Like <hi>Siſter-Faces,</hi> uniformly vary.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lady Enchantreſs</hi> of the <hi>raviſht Ear,</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="150"/> Ne're did thy <hi>Art</hi> effect what <hi>Chance</hi> doth here!</l>
+               <l>Whiles building <hi>Noiſes</hi> by the pleaſed Mind</l>
+               <l>Are into all harmonious <hi>Notes</hi> combin'd,</l>
+               <l>
+                  <hi>Orpheus</hi> to us would grate, <hi>Apollo</hi> jarr:</l>
+               <l>
+                  <hi>Hammers</hi> and <hi>Truels</hi> ſweeter <hi>Muſick</hi> are.</l>
+               <l>By this one <hi>Spell</hi> each melancholy breaſt</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="155"/> Is of its <hi>Legion-Devil</hi> diſpoſſeſt.</l>
+               <l>And where yet falling <hi>London</hi>'s doleful <hi>Knell</hi>
+               </l>
+               <l>Doth in retentive apprehenſions dwell;</l>
+               <l>By <hi>Sympathetick Cure</hi> theſe joyful ſounds</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="160"/> With <hi>glad Idea's</hi> heal the <hi>Phanſies</hi> wounds.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Fields</hi> are buſie too. Bold <hi>Miners</hi> found</l>
+               <l>In paunched Hills a <hi>London under ground.</hi>
+               </l>
+               <pb n="9" facs="tcp:61494:5"/>
+               <l>The Realm of <hi>Silence,</hi> and eternal <hi>Night,</hi>
+               </l>
+               <l>Is ſtartled at th' approach of <hi>Noiſe</hi> and <hi>Light.</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="165"/> 
+                  <hi>Twin-ſtones</hi> long claſped in their <hi>Mother-bed,</hi>
+               </l>
+               <l>Now ſever'd, yeeld with Foreign Rocks to wed.</l>
+               <l>Each poliſht <hi>Marble</hi> to a <hi>Mirour</hi> grows,</l>
+               <l>
+                  <hi>Mocks</hi> its own Work-man, and <hi>retorts</hi> his blows.</l>
+            </lg>
+            <lg>
+               <l>Here, the <hi>green Robe</hi> pull'd off, the unbowel'd ground</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="170"/> Affords a <hi>Clay,</hi> which with <hi>chopp'd ſtubble</hi> bound</l>
+               <l>Firſt, the <hi>Sun</hi> faſtens; then the brittle <hi>Cakes</hi>
+               </l>
+               <l>The rapid <hi>Furnace</hi> to juſt hardneſs <hi>bakes:</hi>
+               </l>
+               <l>An hardneſs that out-ſtands the fierceſt ſhow'rs</l>
+               <l>Which Heaven from its open'd ſluces pow'rs;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="175"/> Which <hi>Winter-Froſts</hi> can't <hi>mellow;</hi> and the <hi>Flame</hi>
+               </l>
+               <l>It ſelf that did beget it, cannot <hi>tame.</hi>
+               </l>
+               <l>Scarce <hi>Flint</hi> or <hi>Marble</hi> laſts ſo long in prime:</l>
+               <l>This <hi>brittle Stone</hi> grind's out the teeth of <hi>Time.</hi>
+               </l>
+               <l>With this th' <hi>Immortal Queen</hi> built <hi>Babels Spires,</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="180"/> And with <hi>burnt Walls</hi> beguiled <hi>future Fires</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>There,</hi> the <hi>Woods</hi> Glories fall, and where the <hi>Eye</hi>
+               </l>
+               <l>Of <hi>Heav'n</hi> ſcarce pierc'd, now <hi>mortal ſight</hi> doth pry.</l>
+               <l>The <hi>Shades</hi> by <hi>Horror</hi> hallow'd, th' early dawn</l>
+               <l>Admitted, doth <hi>illuſtrate</hi> and <hi>profane.</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="185"/> The rev'rend <hi>Oaks</hi> preſumptuous <hi>Axes</hi> wound,</l>
+               <l>Meas'ring their <hi>lengths</hi> upon the furrow'd ground.</l>
+               <l>Whiles ratling <hi>Echo,</hi> (as great Talkers do)</l>
+               <l>Reports at diſtance every blow for two.</l>
+               <l>The <hi>Ring Dove</hi> ſees her lofty Neſt o'rethrown,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="190"/> And <hi>Turtles</hi> that their Love's bewrayed, moan:</l>
+               <pb n="10" facs="tcp:61494:6"/>
+               <l>The <hi>Magpy</hi> ſcolds whiles her <hi>arch'd Roof</hi> doth fall;</l>
+               <l>And ſharking <hi>Rooks,</hi> their <hi>Camp</hi> diſlodged, <hi>brawl;</hi>
+               </l>
+               <l>The <hi>Hare</hi> forſakes her <hi>Form;</hi> the rowzed <hi>Deer</hi>
+               </l>
+               <l>Their branch'd heads now above their Thickets rear;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="195"/> And all the <hi>Game</hi> tall Foreſts us'd to ſhield,</l>
+               <l>Becomes a facile <hi>prey</hi> in th' open field.</l>
+               <l>The <hi>Trav'ler</hi> too, who ſetting forth, deſign'd</l>
+               <l>The <hi>crowned Hills,</hi> as <hi>certain Guides,</hi> to mind;</l>
+               <l>At his Return, admires the <hi>ſhave Coast,</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="200"/> And finds his <hi>way,</hi> with his <hi>Directors,</hi> loſt.</l>
+            </lg>
+            <lg>
+               <l>Yea, <hi>Foreign Realms</hi> contribute, <hi>Spain</hi> brings <hi>Steel,</hi>
+               </l>
+               <l>
+                  <hi>Libanus Cedar</hi> ſends, and <hi>Denmark Deal:</hi>
+               </l>
+               <l>A <hi>chequer'd</hi> Gift the Sun-burnt <hi>India</hi> gives,</l>
+               <l>Whence th' <hi>whiteſt Tooth,</hi> and <hi>blackest Wood</hi> arrives:</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="205"/> Our <hi>Ireland Oak,</hi> on which no <hi>ſpider</hi> builds,</l>
+               <l>(<hi>Arachne</hi> ſure hang'd on that Timber) yields.</l>
+               <l>
+                  <hi>Marbles</hi> come vary'd by their <hi>native grains.</hi>
+               </l>
+               <l>This, <hi>untrod Snow</hi> with purer <hi>brightneſs</hi> ſtains:</l>
+               <l>That's pitchy black, a lump of <hi>ſolid Night:</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="210"/> There, <hi>bloody Veins</hi> creep through a <hi>lovely White:</hi>
+               </l>
+               <l>Some in its <hi>ſpeckled</hi> Face, heav'ns pourtrait bears,</l>
+               <l>An <hi>azure skie</hi> beſpangled o're with <hi>Stars:</hi>
+               </l>
+               <l>And ſome, (on which <hi>Meduſa's Head</hi> did fall),</l>
+               <l>Wherein her <hi>Snakes</hi> ſeem ſtill to <hi>hiſs</hi> and <hi>crawl.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="215"/> Nay, (would you think't? or Fame, my Author lies)</l>
+               <l>
+                  <hi>London</hi> by th' Great in <hi>forreign Lands</hi> doth riſe.</l>
+               <l>Whiles the <hi>Dutch Artist</hi> takes his Module hence.</l>
+               <l>And ſends us <hi>Houſes ready-fram'd</hi> from thence.</l>
+               <pb n="11" facs="tcp:61494:6"/>
+               <l>The <hi>laden Sea</hi> foams, and the <hi>tugged Oar</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="220"/> Plies hard to towe a <hi>floating Town</hi> to ſhore.</l>
+               <l>And th' <hi>Eastern Wind</hi> (now a <hi>Repairer</hi> grown),</l>
+               <l>
+                  <hi>Blows up</hi> our buildings as it <hi>fir'd</hi> them <hi>down.</hi>
+               </l>
+               <l>Whence, (<hi>ſound's</hi> the <hi>Moral</hi> oft, when <hi>Tales</hi> are <hi>lame</hi>
+               </l>
+               <l>Some doubt <hi>New London</hi> may prove <hi>Amsterdam.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="225"/> Nor think it ſtrange, <hi>Cities</hi> ſhould <hi>croſs</hi> the <hi>Seas.</hi>
+               </l>
+               <l>Wee <hi>Poets</hi> can do feats as great as theſe.</l>
+               <l>Wee, when the whole <hi>combined Earth</hi> beſide</l>
+               <l>Unto a <hi>lab'ring Goddeſs</hi> Room deny'd;</l>
+               <l>Did float a <hi>Delos</hi> to her, and aſſign</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="230"/> A brace of Gods, a <hi>Birth-place</hi> and a <hi>Shrine.</hi>
+               </l>
+               <l>From <hi>Naz'reth</hi> to <hi>Loretto,</hi> (quick as thought)</l>
+               <l>Our Tribe the <hi>Virgin Mothers Chamber</hi> brought:</l>
+               <l>Whence <hi>Pilgrim-Votaries,</hi> (and well they may)</l>
+               <l>To th' <hi>wandring Temple</hi> like Devotions pay.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="235"/> Rowz'd with th' unwonted Noiſes, from his Bed,</l>
+               <l>The <hi>Royal Thames</hi> advanc'd his <hi>ſindged Head.</hi>
+               </l>
+               <l>At firſt amaz'd, (for ſtill his troubled breaſt</l>
+               <l>With the late diſmall Horrors was poſleſt)</l>
+               <l>He wildly ſtar'd around the ſcorched ſhore:</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="240"/> But when he ſaw it neatly clothed o're</l>
+               <l>With <hi>riſing Structures;</hi> raviſh'd with delight,</l>
+               <l>He gorg'd his Eyes with the ſurpriſing ſight:</l>
+               <l>And thus he ſpake:</l>
+            </lg>
+            <q>
+               <lg>
+                  <l>'O what <hi>Coelestial Powers</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>'(For nothing leſs could) did erect theſe Towers?</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="245"/> 
+                     <hi>'Old Troy,</hi> two <hi>hired Gods</hi> did raiſe, 'tis ſaid,</l>
+                  <l>'And, though they wrought <hi>by th' Great,</hi> by <hi>halves</hi> were paid.</l>
+                  <pb n="12" facs="tcp:61494:7"/>
+                  <l>'The <hi>Virgin-Goddeſs</hi> built th' <hi>Athenian Town,</hi>
+                  </l>
+                  <l>'And planted there the <hi>Olive,</hi> and the <hi>Gown.</hi>
+                  </l>
+                  <l>'But ſuch Romantick Tales will better be</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="250"/> '(<hi>London</hi>) in time, told and believ'd of <hi>Thee.</hi>
+                  </l>
+                  <l>'Not jolly <hi>Thebes</hi> it ſelf, to whoſe advance</l>
+                  <l>'The merry Stones into the Walls did dance;</l>
+                  <l>'Nor <hi>Dido's Town,</hi> in after-times too wide</l>
+                  <l>'To be thought once <hi>encircled</hi> with an <hi>Hide;</hi>
+                  </l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="255"/> 'Nor <hi>Rome,</hi> (of old and ſtill, the Scene of wonders)</l>
+                  <l>'Whoſe <hi>Vatican Tarpejan</hi> Jove out-thunders;</l>
+                  <l>'Nor She, that long hath <hi>both Romes Rival</hi> been,</l>
+                  <l>'For Beauty, Empire, and the Man of Sin,</l>
+                  <l>'Which (from her <hi>ſeven Hills</hi> too) once Sov'raigns gave</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="260"/> 'To <hi>half</hi> the World, but now the <hi>whole</hi> doth crave;</l>
+                  <l>'Nor dirty <hi>Paris,</hi> where the muddy <hi>Seine</hi>
+                  </l>
+                  <l>'Swells big with Envy at the Chriſtal <hi>Rhene;</hi>
+                  </l>
+                  <l>'Nor <hi>Venice,</hi> round which th' <hi>Adriatick</hi> roars,</l>
+                  <l>'And limns her Beauties to th'encircling ſhores;</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="265"/> 'Nor <hi>stately Florence,</hi> (though their Proverb ſays,</l>
+                  <l>'She's a ſight only fit for Holy-days)</l>
+                  <l>'Through which the rapid <hi>Arnus</hi> poſting, ſtays,</l>
+                  <l>'And from both Banks doth on her Glories gaze;</l>
+                  <l>'Nor mighty <hi>Millain,</hi> with <hi>immortals bread</hi>
+                  </l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="270"/> 'In former Times by ſweet-tongu'd <hi>Ambroſe</hi> fed;</l>
+                  <l>'Nor royal <hi>Naples,</hi> which two miſchiefs tire,</l>
+                  <l>'The Spaniſh <hi>Vapours,</hi> and <hi>Veſuvian Fire;</hi>
+                  </l>
+                  <l>'Shall dare appear in a conteſt with Thee:</l>
+                  <l>'But like <hi>mean Shrubs</hi> to <hi>lofty Oaks</hi> ſhall be,</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:61494:7"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="275"/> 'Let each fair <hi>Nymph</hi> exhauſt her native Spring,</l>
+                  <l>'And <hi>Royal Ayds</hi> to our <hi>Exchequer</hi> bring:</l>
+                  <l>'VVith freſh ſupplies fill up my empty ſhores,</l>
+                  <l>'Cloath every flat, and lift the grounded Oars.</l>
+                  <l>'See, all the River's overſpread with Sails,</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="280"/> 'And the rude Barge-man jointly <hi>tugs</hi> and <hi>rails.</hi>
+                  </l>
+                  <l>'Here, milk-white Chalk, from the unbowel'd hills</l>
+                  <l>'Transform'd to Lime, the ſluggiſh Lighters fills.</l>
+                  <l>'There, th'eaſie-wrought Free-ſtone in weſtern Boats</l>
+                  <l>'Down my obſequious Current ſmoothly floats.</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="285"/> 'This <hi>Oxford</hi> ſends, (the Mother of its Pride)</l>
+                  <l>'To all its noble Palaces ally'd,</l>
+                  <l>'To <hi>Wolſey's</hi> vaſt and <hi>Bodley's</hi> lofty Stories,</l>
+                  <l>'And (the great <hi>Prelate-Founders</hi> mounting Glories,</l>
+                  <l>'To which ev'n <hi>Roman Grandeur</hi> muſt defer</l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="290"/> 'The Sov'raignty of Art) its <hi>Theater.</hi>
+                  </l>
+                  <l>'And thee, (<hi>ſmall Iſland,</hi> to the <hi>Dorſet-ſtrand</hi>
+                  </l>
+                  <l>'Stuck, like a <hi>Glaſs-drop,</hi> with a Tongue of ſand)</l>
+                  <l>'We'l waft to <hi>Pauls,</hi> until again it be</l>
+                  <l>'A taller Mark at <hi>Land,</hi> than thou at <hi>Sea.</hi>
+                  </l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="295"/> 'See! All my ſhores, one <hi>Timber-wharf</hi> are grown.</l>
+                  <l>'And whole Woods ev'ry where on Heaps are thrown.</l>
+                  <l>'My very Banks are peel'd. The Fiſh bewray'd</l>
+                  <l>'In vain ſeek Covert from their plundred ſhade.</l>
+                  <l>'Few <hi>whiſp'ring Trees</hi> diſcourſe my <hi>purling ſtreams;</hi>
+                  </l>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="300"/> 'Or <hi>daple</hi> them with <hi>percolated Beams.</hi>
+                  </l>
+                  <l>'Yet on, <hi>kind Axe;</hi> no Vegetable ſpare;</l>
+                  <l>'Rifle the <hi>Woods,</hi> and <hi>poll</hi> the <hi>Mountains</hi> bare.</l>
+                  <pb n="14" facs="tcp:61494:8"/>
+                  <l>'This <hi>Waste</hi> is <hi>Merit;</hi> May but <hi>London</hi> riſe,</l>
+                  <l>'We'l <hi>chide</hi> in <hi>Thanks,</hi> and count our <hi>Loſſes Prize.</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="305"/> Thus was He ſaying, when the Sailers ſhout</l>
+               <l>(The Timber-Fleet arriving) put him out.</l>
+               <l>The <hi>Cannons</hi> Thundred, and from under ground</l>
+               <l>The <hi>grateful Ruins</hi> did the Joy rebound:</l>
+               <l>Th' <hi>applaunding Flood</hi> repli'd: and the <hi>grave Sire</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="310"/> Did, highly-pleas'd, to's <hi>moſſy Couch</hi> retire.</l>
+            </lg>
+            <lg>
+               <l>Mean while, the Streets are fill'd with buſie throngs.</l>
+               <l>Tis doubtful, which ſound loudeſt, <hi>Tools</hi> or <hi>Tongues.</hi>
+               </l>
+               <l>Some <hi>pray,</hi> ſome <hi>pay;</hi> ſome <hi>work,</hi> and ſome <hi>adviſe:</hi>
+               </l>
+               <l>Some uſe their <hi>Hands,</hi> ſome rule thoſe <hi>Hands</hi> with <hi>Eyes.</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="315"/> Thus, haſt'ned <hi>Buildings</hi> th' <hi>Owners vote</hi> out grow,</l>
+               <l>And to their <hi>Speed</hi> our very <hi>Hopes</hi> are <hi>ſlow.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So, the <hi>new Hive</hi> the <hi>active Swarm</hi> divides.</l>
+               <l>Some, with their Teeth file the uneven ſides;</l>
+               <l>Some clear the Rubbiſh; others, by the Line</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="320"/> Here, a <hi>Whitehall,</hi> a <hi>Cheapſide</hi> there, aſſign.</l>
+               <l>The <hi>humming Troop</hi> ſurveys the fragrant fields,</l>
+               <l>And from each Flow'r a <hi>gummy Birdlime</hi> peels:</l>
+               <l>Others, with joy receive their welcome load;</l>
+               <l>Which with <hi>warm breath</hi> bedew'd, they ſpread abroad;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="325"/> Then, with ſmooth <hi>Tongues</hi> they lick th'obſequious maſs</l>
+               <l>Into a <hi>Form</hi> which <hi>Reaſons Art</hi> doth paſs.</l>
+            </lg>
+            <lg>
+               <l>Thus, when th' <hi>industrious Ants</hi> deſign to dwell</l>
+               <l>In an old Oak, or Moles forſaken Cell,</l>
+               <l>The Field with <hi>little Myrmidons</hi> is ſown;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="330"/> And each <hi>clod crawls</hi> around the riſing Town.</l>
+               <pb n="15" facs="tcp:61494:8"/>
+               <l>Here, ſtrict <hi>Surveyors</hi> walk the deſtin'd round;</l>
+               <l>There, <hi>Pioneers</hi> level th' uneven Ground;</l>
+               <l>Whiles (like a routed Troop with <hi>ſhatter'd Spears</hi>)</l>
+               <l>Advanced <hi>Straws</hi> a ſcatter'd Squadron bears;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="335"/> Which, cropp'd to fitting lengths, their fellows match,</l>
+               <l>And ſome for <hi>Rafters,</hi> ſome they lay for <hi>Thatch.</hi>
+               </l>
+               <l>Their <hi>Shoulders</hi> ſome, ſome contribute their <hi>Skill,</hi>
+               </l>
+               <l>Till to a <hi>Cone</hi> they mount the hollow Hill;</l>
+               <l>Whoſe chequer'd Fabrick, mixt of cloſe and wide,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="340"/> Admits the <hi>Wind,</hi> but turns the <hi>Shower</hi> beſide.</l>
+            </lg>
+            <lg>
+               <l>On, gallant <hi>Londoners.</hi> Husband your Fate,</l>
+               <l>And clothe your Ruins with a Robe of State.</l>
+               <l>Prove <hi>Death</hi> the nobler <hi>Liſe:</hi> and ſtamp't a Truth,</l>
+               <l>Nature may circulate through <hi>Age</hi> to <hi>Youth.</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="345"/> Till they, who by the <hi>Old, New London</hi> Size,</l>
+               <l>Confeſs their <hi>Thoughts</hi> confuted by their <hi>Eyes:</hi>
+               </l>
+               <l>As old Acquaintance, when mens Fortunes mend,</l>
+               <l>Find him a <hi>Courtier</hi> whom they left a <hi>Friend.</hi>
+               </l>
+               <l>Till <hi>Citizens</hi> themſelves, returned, <hi>stray</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="350"/> In the new-modul'd Streets, and <hi>loſe</hi> their <hi>way:</hi>
+               </l>
+               <l>Yea, <hi>London,</hi> whiles 'mong <hi>Stars</hi> ſhe ſows her <hi>Spires,</hi>
+               </l>
+               <l>No leſs her <hi>ſelf,</hi> then <hi>others Her,</hi> admires.</l>
+            </lg>
+            <lg>
+               <l>Thus, when the <hi>Gauls</hi> old <hi>Rome</hi> in Aſhes laid,</l>
+               <l>And <hi>Jove</hi> himſelf in a falſe <hi>Balance</hi> weigh'd:</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="355"/> The <hi>valiant Exile</hi> built the City new,</l>
+               <l>And with her <hi>walls</hi> advanc'd her <hi>Glories</hi> too.</l>
+               <l>Whence ſhe, that till then, (for ſo long a while)</l>
+               <l>Retain'd the Reliques of her <hi>baſe Aſyle;</hi>
+               </l>
+               <pb n="16" facs="tcp:61494:9"/>
+               <l>Whoſe <hi>Shepherds ſheds</hi> with <hi>ſorry Temples</hi> blended,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="360"/> Reproach'd the <hi>meanneſs</hi> whence ſhe was <hi>deſcended</hi>
+               </l>
+               <l>Whoſe each prime ſtreet ſome <hi>Hovell</hi> did avow,</l>
+               <l>VVhence a <hi>Dictator</hi> drove his <hi>Teem</hi> to plow;</l>
+               <l>VVhoſe <hi>wooden Gods</hi> by their own Altars flame</l>
+               <l>Themſelves (well-nigh) a <hi>Sacrifice</hi> became;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="365"/> VVhere <hi>Numa</hi>'s Chappel had a Roof of Thatch,</l>
+               <l>And <hi>Vesta</hi>'s Nuns her Harth with fear did watch:</l>
+               <l>Made then an <hi>youthful ſalley</hi> from her Grave,</l>
+               <l>And nought but <hi>wrinkles</hi> unto Death ſhe gave.</l>
+               <l>Yea, (thanks to th' <hi>Gallick Conflagration</hi>) grew</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="370"/> More <hi>rich</hi> in after-times, and <hi>ſplendid</hi> too.</l>
+               <l>
+                  <hi>Mud-walls</hi> gave place to <hi>Marbles,</hi> and (compar'd)</l>
+               <l>Her golden Tops the Neighbour-Stars out-glar'd,</l>
+               <l>That by meer <hi>Beauties</hi> Right, ſhe might have been</l>
+               <l>VVithout a Rival, th' <hi>
+                     <g ref="char:V">Ʋ</g>niverſes Queen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="375"/> May <hi>London</hi> copy all her Glories out:</l>
+               <l>Riſe as <hi>Magnificent,</hi> nor leſs <hi>devout:</hi>
+               </l>
+               <l>
+                  <hi>Religion,</hi> beſt, Cities foundations layes:</l>
+               <l>Be <hi>Rome</hi> therein her <hi>Pattern,</hi> as my <hi>Praiſe.</hi>
+               </l>
+               <l>There, (not content, the cheap and ſordid way,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="380"/> In <hi>private Corners</hi> ſacred Rites to pay)</l>
+               <l>As faſt their <hi>Temples</hi> as their <hi>Homes</hi> they built,</l>
+               <l>And as themſelves, their gods in <hi>Cedar</hi> dwelt,</l>
+               <l>Yea, ſtatelier too. The <hi>Thund'rer</hi> cas'd in gold,</l>
+               <l>(Lately his Ranſome) held his reſcu'd hold.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="385"/> Bright <hi>Phoebus</hi>'s <hi>gilt</hi> beams out-glar'd his <hi>own,</hi>
+               </l>
+               <l>And in <hi>white</hi> Metal <hi>Silver-Phoebe</hi> ſhone.</l>
+               <pb n="17" facs="tcp:61494:9"/>
+               <l>Now Marble Walls did <hi>Veſta</hi>'s fires ſurround:</l>
+               <l>And <hi>Ears</hi> of richeſt yellow <hi>Ceres</hi> crown'd.</l>
+               <l>Old <hi>Saturn</hi> Sent'nell ſate on golden Bars,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="390"/> Queen <hi>Juno</hi>'s Roof, like Heav'n, was ciel'd with Stars.</l>
+               <l>Snakes ſcal'd with Pearl the <hi>Virgin-Champion</hi> bare,</l>
+               <l>And <hi>Venus</hi> was as fine as ſhe was fair.</l>
+               <l>Luſter and Horror <hi>Mars</hi>'s Arms combin'd,</l>
+               <l>And old <hi>Quirinus</hi> like his City ſhin'd.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="395"/> Convinc'd, a ſecond Fire they well might fear,</l>
+               <l>If their <hi>Shops</hi> ſtatelier than their <hi>Altars</hi> were.</l>
+            </lg>
+            <lg>
+               <l>Yea, <hi>Memphis</hi>-ſelf claims in my Song a place.</l>
+               <l>Glorious her Temples, though her Gods were baſe.</l>
+               <l>Here, <hi>Ibis</hi> veſted in a Room of State:</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="400"/> And there, inthron'd, an <hi>ugly Monkey</hi> ſate:</l>
+               <l>In richeſt Shrines the hallow'd <hi>Bull</hi> did bellow;</l>
+               <l>From like Roofs anſwer'd by his Female Fellow.</l>
+            </lg>
+            <lg>
+               <l>And ſhall not We a nobler Zeal expreſs?</l>
+               <l>Sith more our <hi>Light,</hi> why ſhould our <hi>Love</hi> be leſs?</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="405"/> Shame on our baſeneſs if thoſe <hi>Dunghil-gods</hi>
+               </l>
+               <l>With great <hi>Jehovah</hi> vye and have the <hi>odds!</hi>
+               </l>
+               <l>If <hi>Curr-Anubis</hi> Heaven's Lord excell;</l>
+               <l>And the <hi>true Thund'rer</hi> more obſcurely dwell!</l>
+            </lg>
+            <lg>
+               <l>Say not, th' <hi>Eternal Mind</hi> delights to come</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="410"/> Into the <hi>pure Heart,</hi> not the <hi>Gaudy Room.</hi>
+               </l>
+               <l>That th' <hi>Who,</hi> in Worſhip, ſanctifie the <hi>Where:</hi>
+               </l>
+               <l>And make a <hi>Barn,</hi> or <hi>Booth,</hi> an <hi>Houſe</hi> of Prayer.</l>
+               <l>Thus <hi>Satan</hi> in a <hi>Samuel's Mantle</hi> ſneaks,</l>
+               <l>Whiles <hi>Avarice</hi> Religious Language ſpeaks!</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="tcp:61494:10"/>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="415"/> But Wranglers, learn, He will in <hi>both</hi> reſide,</l>
+               <l>Who (equally remov'd from <hi>Need</hi> and <hi>Pride</hi>)</l>
+               <l>Expects the <hi>best,</hi> ſcorns not the <hi>meanest</hi> Treat;</l>
+               <l>Val'uing in both the <hi>Welcome,</hi> not the <hi>Meat;</hi>
+               </l>
+               <l>
+                  <hi>Gifts</hi> by the <hi>Mind,</hi> the <hi>Mind</hi> by <hi>them</hi> he weighs;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="420"/> And as men give, by a like ſcale repays.</l>
+               <l>Ill Parſimony Purity pretends:</l>
+               <l>Nor is the worſhip <hi>Pure,</hi> where <hi>foul</hi> the Ends.</l>
+            </lg>
+            <lg>
+               <l>At leaſt with thee, <hi>brave City,</hi> in whoſe frame</l>
+               <l>Both <hi>Art</hi> and <hi>Cost</hi> equally court a name,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="425"/> Let <hi>Int'rest</hi> ſway; lay not a train of <hi>Guilt,</hi>
+               </l>
+               <l>Once more to <hi>blow up</hi> what thy <hi>Wealth</hi> hath <hi>built.</hi>
+               </l>
+               <l>'Tis an affront too daring to be born,</l>
+               <l>When th' object of our <hi>Worſhip</hi> grows our <hi>Scorn.</hi>
+               </l>
+               <l>Who <hi>ſhames, diſclaims</hi> his God; whiles (meanly plac'd)</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="430"/> His Houſe is by its Neighbouring Pomp diſgrac'd.</l>
+            </lg>
+            <lg>
+               <l>Our <hi>Fathers</hi> (ſure) were of a nobler ſtrain,</l>
+               <l>VVhoſe Times we treat 'twixt <hi>Pity</hi> and <hi>Diſdain.</hi>
+               </l>
+               <l>Their <hi>Twilight-Zeal</hi> rais'd us the <hi>Churches,</hi> where</l>
+               <l>Thoſe <hi>Lights</hi> have ſhin'd that made our <hi>Day</hi> ſo clear.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="435"/> O let's not tempt Poſterity to call</l>
+               <l>Thoſe the <hi>worſe Chriſtians</hi> that let 'em fall!</l>
+            </lg>
+            <lg>
+               <l>And (ſith <hi>Church-founding</hi>'s now my Muſes Aim)</l>
+               <l>Thou <hi>Rev'rend Pauls</hi> her firſt Eſſay maiſt claim.</l>
+               <l>VVhether the <hi>Royal Charles</hi> in Thee deſign</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="440"/> To crown the Glories of his Princely Line;</l>
+               <l>Or ſome Succeſſor, <hi>Maurice,</hi> in thy ſeat,</l>
+               <l>Rival thy Honours with a mind as great;</l>
+               <pb n="19" facs="tcp:61494:10"/>
+               <l>Or grateful Piety thy <hi>Sons</hi> engage</l>
+               <l>VVith thy <hi>Revenues</hi> to reſtore thine Age;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="445"/> Or <hi>private Breaſts</hi> a glorious zeal inſpire;</l>
+               <l>Or <hi>publique work a publick Purſe</hi> require;</l>
+               <l>Or <hi>all</hi> theſe <hi>helps</hi> be neeeful: Pity 'twere</l>
+               <l>Thy ſacred walls alone ſhould want Repair.</l>
+               <l>And whiles they overlook all round 'em new,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="450"/> 
+                  <hi>Threaten</hi> the City and <hi>reproach</hi> it too.</l>
+            </lg>
+            <lg>
+               <l>True, 'tis a work of Ages, and <hi>our Days</hi>
+               </l>
+               <l>May well deſpair to graſp ſo <hi>vaſt</hi> a <hi>Praiſe:</hi>
+               </l>
+               <l>But yet we may <hi>begin,</hi> and part the glory</l>
+               <l>Bet wixt <hi>our own,</hi> and <hi>our Deſcendants</hi> ſtory,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="455"/> The <hi>ancient'ſt Chriſtian Monument</hi> we have</l>
+               <l>To have redeemed from its fatal Grave.</l>
+            </lg>
+            <lg>
+               <l>You, whoſe, full Cheſts with ſmother'd Gold are cram'd,</l>
+               <l>At once to <hi>Ruſt</hi> and <hi>ſecond darkneſs</hi> damn'd:</l>
+               <l>Reſcue your <hi>Treaſure</hi> from your <hi>Heirs Exceſs.</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="460"/> A <hi>Part</hi> thus ſpent will the <hi>Remainder</hi> bleſs.</l>
+               <l>Or would you <hi>propagate</hi> your VVealth by <hi>
+                     <g ref="char:V">Ʋ</g>ſe?</hi>
+               </l>
+               <l>Cajole the Law, and <hi>Cent</hi> per <hi>Cent</hi> produce?</l>
+               <l>Truſt Him that's moſt Reſponſible, and add</l>
+               <l>(Beſides the <hi>Gain</hi>) a <hi>Credit</hi> to your Trade?</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="465"/> No <hi>
+                     <g ref="char:V">Ʋ</g>ſury</hi> like this you can deviſe,</l>
+               <l>VVhere <hi>God's</hi> the <hi>Debtor, Heav'n at Mortgage</hi> lies.</l>
+            </lg>
+            <lg>
+               <l>And you, whoſe <hi>Riches</hi> moſt in <hi>Wiſhes</hi> are,</l>
+               <l>(The <hi>Poets</hi> Tribe) aſſiſt with <hi>Verſe</hi> and <hi>Pray'r.</hi>
+               </l>
+               <l>Old Bards did thus build Cities, Churches We;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="470"/> Though better Founders, <hi>Pauls,</hi> we wiſh to Thee:</l>
+               <pb n="20" facs="tcp:61494:11"/>
+               <l>Until (great <hi>Doctor</hi> of the <hi>Gentiles</hi>) thine</l>
+               <l>Become the Envy of the <hi>Fiſhers ſhrine.</hi>
+               </l>
+               <l>
+                  <note n="*" place="margin">Theſe Verſes and divers that follow are to be re<g ref="char:EOLhyphen"/>ferred to the time when the Latin Poem (of which this is a Verſion) was written, <hi>viz.</hi> Feb. 1667. when the Winter was remarkably dry and calm.</note> Mean while, <hi>calm Winter</hi> thanks, young <hi>Londons</hi> friend,</l>
+               <l>Ne're was the Sky to better purpoſe kind.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="475"/> How Divine Favour rocks the <hi>Storms</hi> to <hi>Reſt,</hi>
+               </l>
+               <l>To give her ſpace to build her <hi>Halcion-Neſt!</hi>
+               </l>
+               <l>Whiles <hi>February</hi> laughs that us'd to mourn,</l>
+               <l>And <hi>galloping Spring</hi> out-poſt's the <hi>Suns Return.</hi>
+               </l>
+               <l>Whiles no <hi>hard Froſts</hi> lock up the <hi>coſtive</hi> ground,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="480"/> Nor <hi>ſnowy Fleeces</hi> ſever'd Rights confound,</l>
+               <l>Nor <hi>Icy-drops</hi> the Truel double-glaze,</l>
+               <l>Nor the <hi>cold ferment</hi> lodged Bricks doth raiſe,</l>
+               <l>Nor <hi>haſty rains</hi> with an impetuous Daſh</l>
+               <l>Into a bog the <hi>mellow buildings</hi> quaſh.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="485"/> Hail, <hi>Heav'ns</hi> great <hi>Fav'rite-City!</hi> For thy ends,</l>
+               <l>The <hi>Courſe</hi> of <hi>Things</hi> and <hi>Law of Nature</hi> bends:</l>
+               <l>El'ments commute, and the <hi>inverted year</hi>
+               </l>
+               <l>Her <hi>Summer-Months</hi> on <hi>Winter</hi> doth confer.</l>
+               <l>What glorious Fabricks may we (then) expect</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="190"/> The <hi>Vernal Sun</hi> advanced ſhall erect!</l>
+               <l>When the unequal <hi>Ram</hi> with equal Rage</l>
+               <l>The chafed <hi>Bull</hi> in Combat ſhall engage:</l>
+               <l>When from the <hi>Martial Twins</hi> the fiery Carr</l>
+               <l>Retreats into the <hi>retrogreſſive Starr:</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="195"/> When <hi>Nemea</hi>'s Lion roars, and a cold ſweat</l>
+               <l>Bathes the <hi>ſcar'd maid</hi> amidſt her flagrant Heat:</l>
+               <l>If the <hi>decrepit year</hi> ſuch <hi>Iſſues</hi> ſhew,</l>
+               <l>And <hi>London</hi> thus under <hi>dull Planets</hi> grow.</l>
+            </lg>
+            <lg>
+               <pb n="21" facs="tcp:61494:11"/>
+               <l>Then, ſure, (as when the Earth hath quaffed up</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="500"/> 
+                  <hi>Joves Tankard-bearers</hi> overflowing Cup,</l>
+               <l>And tepid <hi>Zephyr</hi> thawing Winters cold</l>
+               <l>Makes <hi>ſprouting Trees</hi> their <hi>cloſed Buds</hi> unfold;</l>
+               <l>Whiles the returning <hi>Sap</hi> with want on heat</l>
+               <l>Swelling <hi>each Bud,</hi> new <hi>Bloſſoms</hi> each beget:)</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="505"/> Thy <hi>Ruins</hi> ſhall prove <hi>Vegetable</hi> too:</l>
+               <l>And thy ſcorch't <hi>Stump</hi> to a <hi>new City</hi> grow.</l>
+               <l>Whoſe adverſe Fronts at equidiſtant ſpace,</l>
+               <l>As Lines drawn Parallel, their Fellows face.</l>
+               <l>Each noble Street <hi>detaining</hi> with delight,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="510"/> VVhiles it gives <hi>Paſſage</hi> to th' admiring ſight:</l>
+               <l>Till intercepted by no Envious bound,</l>
+               <l>It find it ſelf in Heav'ns vaſt Ocean drown'd.</l>
+            </lg>
+            <lg>
+               <l>Thus, whiles the <hi>Quin cunx</hi> curious Orchards throws</l>
+               <l>Into a thouſand ſubdivided rows;</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="515"/> Its ſeveral <hi>Walks</hi> are <hi>loop'd</hi> to th' <hi>Hemiſphere,</hi>
+               </l>
+               <l>And each <hi>end-twig</hi> not <hi>Fruit</hi> but <hi>Stars</hi> doth bear.</l>
+            </lg>
+            <lg>
+               <l>And where <hi>Commerce</hi> in <hi>crowded Throngs</hi> was pent,</l>
+               <l>Or <hi>Fires</hi> coop'd up had rag'd for want of <hi>vent:</hi>
+               </l>
+               <l>VVhere <hi>obſcure Lanes</hi> obſcurer Facts did hide:</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="520"/> And <hi>Pests</hi> by being ſtraitned, ſpread more wide:</l>
+               <l>
+                  <hi>Traffique</hi> in ſpacious Streets ſhall now be free,</l>
+               <l>And <hi>Flames</hi> ſoon <hi>ſpent,</hi> or ſoon <hi>ſuppreſt</hi> ſhall be.</l>
+               <l>
+                  <hi>Day's Eye</hi> each where ſhall <hi>skulking Sinners</hi> trace,</l>
+               <l>And <hi>tranſient Air</hi> infectious ſteams ſhall chaſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="525"/> Yea, (though <hi>Front-buildings</hi> ſhall be <hi>backward</hi> thruſt,</l>
+               <l>T'enlage each Paſſage to dimenſions juſt)</l>
+               <pb n="22" facs="tcp:61494:12"/>
+               <l>
+                  <hi>London,</hi> thou ſhalt not <hi>leſs</hi> by <hi>leſſening</hi> grow;</l>
+               <l>Whiles each Houſe gains <hi>above</hi> what's loſt <hi>below,</hi>
+               </l>
+               <l>Its breadth <hi>ſqueez'd</hi> into <hi>Height;</hi> and from the <hi>skies</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="530"/> 
+                  <hi>Stealing</hi> the room the cramped <hi>Ground</hi> denies,</l>
+               <l>Thus thy own <hi>Thames</hi> both robs and makes amends:</l>
+               <l>VVhiles it <hi>pays</hi> this ſhore what from that it <hi>rends.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Happp thy <hi>Poet,</hi> if his friendly Fates</l>
+               <l>Spare him to <hi>ſee</hi> what he <hi>prognoſticates!</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="535"/> No mean content would ſuch a proſpect bring</l>
+               <l>Unto his <hi>Autumn</hi> to behold thy <hi>Spring.</hi>
+               </l>
+               <l>Nor will his <hi>Muſe</hi> (born for thy ſervice) pine,</l>
+               <l>If, thy Turn's ſerv'd, her ſtock of wit decline.</l>
+               <l>On <hi>other Themes</hi> to <hi>flag</hi> leſs muſt her grieve,</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="540"/> Secure enough by thy <hi>ſole Name</hi> to <hi>live.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And you (<hi>Great Sir</hi>) who toil'd in vain to ſave</l>
+               <l>A <hi>dying London</hi> from her diſmal Grave:</l>
+               <l>Shall leſs repent your unſucceſsful pain,</l>
+               <l>VVhen, worthy you, by you, ſhe lives again.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="545"/> Yea, after-times, that mourning read her <hi>Fall;</hi>
+               </l>
+               <l>VVith equal Joy ſhall read her <hi>Riſe</hi> withall.</l>
+               <l>And all her <hi>paſt misfortunes</hi> from your ſtory</l>
+               <l>Shall be expung'd by her <hi>ſucceeding Glory.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVhence ſhe (<hi>Augusta hight</hi> in days of <hi>Eald</hi>
+               </l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="550"/> Though much beyond her <hi>State</hi> her <hi>Title</hi> ſwell'd)</l>
+               <l>By this improvement, with a fairer claim</l>
+               <l>Into her <hi>own</hi> ſhall <hi>graft your greater Name.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yea, could ſhe <hi>now</hi> ſtate on a juſt account,</l>
+               <l>How much her <hi>Gain</hi> her <hi>Loſs</hi> ſhall <hi>then</hi> ſurmount.</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="555"/> 'Tis thought, ſhe'd <hi>thank</hi> her <hi>Flames,</hi> and count it <hi>Prize,</hi>
+               </l>
+               <l>Ev'n <hi>ſo</hi> to <hi>die,</hi> that <hi>ſo</hi> ſhe might <hi>ariſe.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61494:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
